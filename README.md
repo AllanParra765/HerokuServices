@@ -5,3 +5,4 @@
 base de datos falta por crear
 # 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
 # Lista estructura
+# desde Visual

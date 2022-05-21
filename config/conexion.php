@@ -16,4 +16,6 @@
 			return $this->dbh->query("SET NAMES 'utf8'");
         }
     }
+  
+    
 ?>
